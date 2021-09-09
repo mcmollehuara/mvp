@@ -1,0 +1,10 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/mvp",
+        "create path (nt:unstructured) /content/dam/mvp/jcr:content",
+        "set properties on /content/dam/mvp/jcr:content",
+        "set cq:conf{String} to /conf/mvp",
+        "set jcr:title{String} to \"MVP Site\"",
+        "end"
+    ]
+}

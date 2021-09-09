@@ -1,0 +1,17 @@
+{
+    "name": "generator-component",
+    "version": "0.1.0",
+    "description": "AEM scaffolder",
+    "files": [
+        "app"
+    ],
+    "keywords": [
+        "yeoman-generator"
+    ],
+    "dependencies": {
+        "find": "^0.3.0",
+        "html-wiring": "^2.0.0",
+        "yeoman-generator": "^1.1.1",
+        "yosay": "^2.0.2"
+    }
+}
